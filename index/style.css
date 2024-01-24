@@ -1,0 +1,98 @@
+.section1 {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    }
+    .btn {
+        box-shadow: 0 0 10px #f0f0f0; /* Add a subtle shadow */
+        border-radius: 25px;
+        box-sizing: border-box;
+        padding: 5px 50px; /* Add padding for better visual appearance */
+        font-size: 16px; /* Adjust the font size as needed */
+    }
+    .btn1 {
+        border-radius: 12px;
+        padding: 10px 50px;
+        background-color: #3163d8;
+        color: #f0f0f0;
+        border: none;
+    }
+    .section2 { 
+        box-shadow: 0 0 10px #f0f0f0;
+        height: auto;
+        width: 100%;
+        border: none;
+    }
+    .instant {
+        box-shadow: 0 0 10px #717171;
+        background-color: #c8c8c8;
+        width: 330px;
+        height:230px ;
+        border: none;
+        
+    }
+    .section3 {
+        text-align: center;
+    }
+    .section3 img {
+        padding: 10px 10px;
+        gap: 10px;
+       
+    }
+    .btn3 {
+        background-color: rgb(12, 12, 203); 
+        border-radius: 10px;
+         color: white; 
+         padding:10px 30px; 
+         border: none;
+    }
+    .section4 {
+        text-align: center;
+
+    }
+    .image-container {
+        position: relative;
+        width: 638px;
+        height: 352px;
+    }
+
+    .overlay {
+        position: absolute;
+        top: 50%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        text-align:left;
+        color: white; 
+        font-size: 20px;
+        padding-top: 240px;
+    }
+
+    .contain {
+        max-width: 800px;
+        margin: auto;
+    } 
+    .btn5 {
+        width: 58%;
+        height: 280px;
+        border: none;
+        border-radius: 25px;
+        background-color: #3163d8;
+        color: white;
+      
+    }
+    .btn5 h1 {
+        padding: 42px 0px;
+    }
+    .line-container {
+        position: relative;
+        width: 58%; 
+        margin: auto; 
+    }
+    .logo {
+        text-align: right;
+        margin: auto;
+        width: 58%;
+        position: relative;
+   
+    }
+ 

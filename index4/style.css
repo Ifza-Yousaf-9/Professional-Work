@@ -1,0 +1,28 @@
+.navbar {
+    background-color: white;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1); 
+}
+.navbar-text .btn-primary {
+    background-color: #0f65c8; 
+    color: white; 
+}
+
+.input-container {
+    position: relative;
+    display: inline-block; /* Ensure the container only takes as much width as necessary */
+}
+
+.round {
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px 40px; /* Adjust padding as needed */
+    width: 700px;
+}
+
+.icon {
+    position: absolute;
+    top: 50%;
+    right: 20px; 
+    transform: translateY(-50%);
+}

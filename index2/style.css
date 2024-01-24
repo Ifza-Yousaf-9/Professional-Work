@@ -1,0 +1,67 @@
+.section {
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100%; 
+  }
+  
+  .top {
+    position: absolute;
+    top: 39%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  img {
+    width: 100%; 
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-text-container {
+    display: flex;
+    align-items: center;
+    margin-right: 190px; 
+}
+
+img {
+    margin-right: 8px; 
+}
+.box {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    height: 350px;
+
+}
+.btn {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 15px 40px;
+    border: solid 1px #ccc;
+
+}
+.btn5 {
+    width: 58%;
+    height: 280px;
+    border: none;
+    border-radius: 25px;
+    background-color: #3163d8;
+    color: white;
+  
+}
+.btn5 h1 {
+    padding: 42px 0px;
+}
+.line-container {
+    position: relative;
+    width: 58%; 
+    margin: auto; 
+}
+.logo {
+    text-align: right;
+    margin: auto;
+    width: 58%;
+    position: relative;
+
+}
